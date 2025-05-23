@@ -1,4 +1,5 @@
 Automatic Arduino Dog Feeder – Version 1.0:
+
 Welcome to the first version of the Automatic Arduino Dog Feeder – a smart, hands-free solution for feeding your furry friend on schedule!
 
 🚀 Features:
